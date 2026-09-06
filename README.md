@@ -1,4 +1,5 @@
 ````markdown
+
 <div align="center">
 
 <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Cpolygon%20points='32%206%2058%2019%2032%2032%206%2019'%20fill='%237CBD4B'/%3E%3Cpolygon%20points='6%2019%2032%2032%2032%2060%206%2047'%20fill='%238A6B43'/%3E%3Cpolygon%20points='58%2019%2032%2032%2032%2060%2058%2047'%20fill='%236E5434'/%3E%3C/svg%3E" width="92" alt="CraftVerse Logo" />
